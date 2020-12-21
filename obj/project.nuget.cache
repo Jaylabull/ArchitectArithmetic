@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjZJbKpzd5rTM7mEzhpM06OqA+QItlkD8jfJdFNK3wIWd05ggXLxZ4fiBrRbvQP3n5OxcjZy42WssGyBRO/3GA==",
+  "success": true,
+  "projectFilePath": "/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/ArchitectArithmetic/ArchitectArithmetic.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaylabullard/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
